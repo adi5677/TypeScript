@@ -1,0 +1,1 @@
+{"version":3,"file":"input.js","sourceRoot":"","sources":["../input.ts"],"names":[],"mappings":";;AAAA,SAAS,OAAO;IACZ,MAAM,SAAS,GAAG,QAAQ,CAAC,cAAc,CAAC,UAAU,CAAqB,CAAC;IAC1E,MAAM,UAAU,GAAG,QAAQ,CAAC,cAAc,CAAC,OAAO,CAAqB,CAAC;IACxE,MAAM,aAAa,GAAG,QAAQ,CAAC,cAAc,CAAC,UAAU,CAAqB,CAAC;IAC9E,uEAAuE;AAC3E,CAAC"}
