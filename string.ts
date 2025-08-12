@@ -20,4 +20,4 @@ var data:string = boolData.toString();
 
 var item:boolean = true;
 
-var info1 = "Aditya Sharma is " + (item ? "available" : "not available");
+var info1 = `Aditya Sharma is ${item ? "available" : "not available"}`;
