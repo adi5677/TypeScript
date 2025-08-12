@@ -15,5 +15,5 @@ var num = 100;
 var boolData = true;
 var data = boolData.toString();
 var item = true;
-var info1 = "Aditya Sharma is " + (item ? "available" : "not available");
+var info1 = `Aditya Sharma is ${item ? "available" : "not available"}`;
 //# sourceMappingURL=string.js.map
