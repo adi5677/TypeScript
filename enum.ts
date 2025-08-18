@@ -39,6 +39,7 @@ var userRole: Roles = Roles.admin;
 var userRole2: Roles = Roles.user;
 var userRole3: Roles = Roles.guest;
 
+
 console.log(userRole);
 console.log(userRole2);
 console.log(userRole3);
